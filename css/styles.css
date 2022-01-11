@@ -1,0 +1,45 @@
+body {
+       background-image: url("../images/batman.jpg"); 
+       background-size: cover;
+}
+
+h1 {
+     color: rgb(238, 255, 4);  
+     text-align: center;
+     font-size: 30px;
+     font-style: italic;
+     
+}
+h2 {
+       color: rgb(255, 4, 46);  
+       text-align: center;
+       font-size: 25px;
+       font-style: bold;
+       
+  }
+h3 {
+       color: rgb(156, 156, 4);
+}
+p  {
+       color: gray;
+}
+ul {
+       color: gray;
+}
+.center {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 30%;
+     }
+a  {
+       display:block;text-align:center
+       
+}
+h4 {
+       color: gray;
+       text-align: center;
+       font-size: 10px;
+       border: 1px solid red;
+       border-radius: 5px;
+}
